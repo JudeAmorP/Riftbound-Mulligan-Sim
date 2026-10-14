@@ -1,0 +1,86 @@
+[
+  {
+    "id": "69bc5bc6d308c64675ca86bc",
+    "name": "Fury Rune",
+    "riftbound_id": "ogn-007-298",
+    "tcgplayer_id": "652777",
+    "collector_number": 7,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Common",
+      "domain": ["Fury"]
+    },
+    "text": {
+      "rich": "",
+      "plain": "",
+      "flavour": null
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png",
+      "artist": "Greg Ghielmetti & Leah Chen",
+      "accessibility_text": "Riftbound Rune: Fury Rune."
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "Fury Rune",
+      "updated_on": "2026-03-26T17:26:44.901327+00:00",
+      "alternate_art": false,
+      "overnumbered": false,
+      "signature": false
+    },
+    "new": null
+  },
+  {
+    "id": "69bc5bc7d308c64675ca86bd",
+    "name": "Fury Rune (Alternate Art)",
+    "riftbound_id": "ogn-007a-298",
+    "tcgplayer_id": "652778",
+    "collector_number": 7,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Showcase",
+      "domain": ["Fury"]
+    },
+    "text": {
+      "rich": "",
+      "plain": "",
+      "flavour": null
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/09da06c69d07d4e72dde703737ef167472c715af-1488x2078.png",
+      "artist": "Fairfoul",
+      "accessibility_text": "Riftbound Rune: Fury Rune."
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "Fury Rune Alternate Art",
+      "updated_on": "2026-03-19T20:25:43.048640+00:00",
+      "alternate_art": true,
+      "overnumbered": false,
+      "signature": false
+    },
+    "new": null
+  }
+]
